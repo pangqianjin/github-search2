@@ -1,0 +1,14 @@
+.result{
+    margin: 1em;
+    display: inline-block;
+}
+
+.result img{
+    width: 100px;
+    height: 100px;
+}
+
+.result > h5 {
+    margin: 5px 0 0 0;
+    text-align: center;
+}
